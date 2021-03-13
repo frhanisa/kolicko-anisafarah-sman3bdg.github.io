@@ -1,0 +1,23 @@
+body {margin: 0; font-family: sans-serif}
+
+.header {margin: 0px; color: white; background: black; height: 90px;}
+
+.logo {float: left; margin-left: 15px; margin-bottom: 10px; padding-top: 5px;}
+
+.navbar {float: right;}
+
+.navbar ul{list-style: none; padding-top: 20px;}
+
+.navbar ul li{display: inline; margin: 10px}
+
+.navbar ul li a{text-decoration: none; color:white}
+
+.navbar ul li a:hover {border-bottom: 2px solid goldenrod}
+
+.banner {margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 10px;}
+
+.footer {text-align: center; margin: 0px; color: white; background: black; height: 70px}
+
+.footer p{padding-top:25px;}
+
+.footer a{text-decoration: none; color: white;}
